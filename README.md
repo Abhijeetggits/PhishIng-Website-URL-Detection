@@ -29,8 +29,6 @@ Tech Stack:
 - Scikit-learn
 
  Project Structure:
-  ## Project Structure
-
 Phishing-Website-Detection/
 │
 ├── data/
